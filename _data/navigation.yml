@@ -2,16 +2,15 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "유니티"
-    url: /categories-unity/
-  - title: "Sample Posts"
-   url: /year-archive/
+  - title: "포스트"
+    url: /_posts/
+
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
 docs:
-  - title: Getting Started
+  - title: Post
     children:
       - title: "Quick-Start Guide"
         url: /docs/quick-start-guide/
