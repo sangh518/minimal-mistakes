@@ -1,7 +1,9 @@
 ---
 title: "윈도우 에서 Jekyll 블로그 로컬 서버 돌리기"
 categories:
+  - 테스트
   - 기록
+  
 tags:
   - Blog
   - Jekyll
