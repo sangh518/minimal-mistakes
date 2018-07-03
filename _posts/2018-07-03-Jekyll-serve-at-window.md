@@ -2,8 +2,8 @@
 title: "윈도우 에서 Jekyll 블로그 로컬 서버 돌리기"
 comments: true
 categories:
-  - 테스트
-  - 기록
+  - test
+  - record
 tags:
   - Blog
   - Jekyll
@@ -13,27 +13,27 @@ tags:
 커맨드로 조작하는 건 왕초보라 모르는 것이 너무 많았다.
 나중에 기억하기 위해 커맨드를 돌리는 순서를 기록해두려 한다. ~~(내가 볼라고)~~
 
-## 1. 인코딩 에러 수정
+### 1. 인코딩 에러 수정
 ```
 chcp 65001
 ```
 
 무슨 명령인지는 잘 모르겠지만 이 코드를 치면 인코딩 에러가 사라진다.
 
-## 2. D드라이브 접근
+### 2. D드라이브 접근
 ```
 D:
 ```
 D드라이브를 주로 쓰고 있어서 D드라이브에 대부분의 폴더를 저장하고 있는데, 다른 드라이브는 cd를 써서 바로 접근이 안되더라.
 저렇게 단독으로 쳐줘서 D드라이브에 접근한다.
 
-## 3. 로컬 저장소 접근
+### 3. 로컬 저장소 접근
 ```
 cd D:\Sanghwa\Documents\sangh518.github.io
 ```
 git과 연동된 지킬 블로그가 있는 로컬 저장소에 접근해준다. 
 
-## 4. 지킬 서버 실행
+### 4. 지킬 서버 실행
 ```
 bundle exec jekyll serve
 ```
@@ -43,7 +43,7 @@ bundle exec jekyll serve
 
 -------
 
-## Profit!
+### Profit!
 ```
 Active code page: 65001
 PS C:\Users\Sanghwa> D:
