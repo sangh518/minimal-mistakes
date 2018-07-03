@@ -1,5 +1,5 @@
 ---
-title: "윈도우 에서 Jekyll 블로그 로컬 서버 돌리기"
+title: "윈도우에서 Jekyll 블로그 로컬 돌리기"
 comments: true
 categories:
   - test
