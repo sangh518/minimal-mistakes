@@ -91,7 +91,7 @@ docs:
 
 # sidebar navigation list sample
 sidebar-sample:
-  - title: "Parent Page A"
+  - title: test1
     children:
       - title: "Child Page A1"
         url: /
