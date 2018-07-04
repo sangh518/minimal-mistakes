@@ -269,6 +269,11 @@ defaults:
       comments: true
       share: true
       related: true
+      sidebar:
+        title: "Sample Title"
+        nav: sidebar-sample
+
+
 
 breadcrumbs: true
 github: [metadata]
