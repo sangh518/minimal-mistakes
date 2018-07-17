@@ -31,7 +31,7 @@ float exitTime = 0.8f;
 IEnumerator CheckAnimationState()
 {
 
-	while (animator.GetCurrentAnimatorStateInfo(0)
+	while (!animator.GetCurrentAnimatorStateInfo(0)
 	.IsName("원하는 애니메이션 이름")) 
 	{ 
 		//전환 중일 때 실행되는 부분
