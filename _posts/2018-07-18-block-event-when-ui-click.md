@@ -23,7 +23,7 @@ tags:
 ---
 
 
-##일반적인 경우
+## 일반적인 경우
 
 일반적인 경우엔 **[IsPointerOverGameObject](https://docs.unity3d.com/ScriptReference/EventSystems.EventSystem.IsPointerOverGameObject.html)**를 사용하면 간단하게 처리가 가능하다.
 
@@ -65,7 +65,7 @@ if(Input.touchCount > 0)
 
 ```
 
-##일반적이지 않은 경우
+## 일반적이지 않은 경우
 
 대부분의 경우 위의 방법으로 처리가 된다.
 
