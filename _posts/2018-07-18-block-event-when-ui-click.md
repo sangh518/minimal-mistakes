@@ -57,7 +57,8 @@ if(Input.GetMouseButtonDown(0))
 //터치
 if(Input.touchCount > 0)
 {
-	if(!EventSystem.current.IsPointerOverGameObject())
+	if(!EventSystem.current
+	.IsPointerOverGameObject(Input.GetTouch(0).fingerId))
 	{  
 	         //터치 처리
 	}
