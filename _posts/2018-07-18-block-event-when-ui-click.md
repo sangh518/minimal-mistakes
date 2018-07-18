@@ -83,11 +83,11 @@ public bool IsPointerOverUIObject(Vector2 touchPos)
     
     eventDataCurrentPosition.position = touchPos;
     
-    List<RaycastResult> results 
-    	= new List<RaycastResult>();
+    List<RaycastResult> results = new List<RaycastResult>();
     	
-	EventSystem.current
- 		.RaycastAll(eventDataCurrentPosition, results);
+    
+    EventSystem.current
+    .RaycastAll(eventDataCurrentPosition, results);
  		
    return results.Count > 0;
 } 
