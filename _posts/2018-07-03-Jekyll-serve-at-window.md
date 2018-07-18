@@ -2,7 +2,7 @@
 title: "윈도우에서 Jekyll 블로그 로컬 돌리기"
 comments: true
 categories:
-  - record
+  - Record
 tags:
   - Blog
   - Jekyll
