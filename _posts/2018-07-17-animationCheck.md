@@ -8,11 +8,11 @@ categories:
 
   - Record
 
-  - Unity
-
 tags:
 
   - Unity
+  - Animation
+  - Animator
 
 ---
 
