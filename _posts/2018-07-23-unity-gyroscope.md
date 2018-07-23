@@ -37,6 +37,6 @@ void FixedUpdate()
 [Input.acceleration](https://docs.unity3d.com/kr/530/ScriptReference/Input-acceleration.html)를 사용하면 이렇게나 간단하게 해결이 가능하다.
 실제로도 매우 잘 작동하는 중....
 
-![나는 대체 무엇을 위해....](/assets/images/posts/_BookMark/허탈.jpg)
+![나는 대체 무엇을 위해....](/assets/images/posts/_BookMark/shit.jpg)
 
 **오늘의 결론 : 역시 구글은 모든 것을 알고있다.**
