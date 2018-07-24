@@ -14,7 +14,7 @@ tags:
   - Physics
 
 ---
-
+![test](/assets/images/posts/bookmark/shit.jpg)
 
 
 스마트폰을 기울이면 그에 맞춰서 안에 있는 물체들이 움직이도록 자이로센서를 이용해서 구현해보려고 이런 저런 뻘짓을 하다가 실패했다. [Input.gyro](https://docs.unity3d.com/kr/current/ScriptReference/Input-gyro.html)를 이용하면 구현 가능할 것 같았는데 VR같은 경우는 3D라 쉽게 적용이 가능했지만 2D 같은 경우에는 [Quaternion](https://docs.unity3d.com/kr/current/ScriptReference/Quaternion.html)이 어쩌구 저쩌구 하면서 특정 각도만 제어하는게 상당히 어려웠다.
