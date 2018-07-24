@@ -84,6 +84,19 @@ docs:
       - title: "Terms &amp; Privacy Policy"
         url: /terms/
 
+
+unity-ai:
+  - title : "영리한 움직임"
+    children: 
+      - title: "행위 템플릿 만들기"
+        url: /unity/ai/unity-ai-1-1/
+      - title: "추적과 회피"
+        url: /unity/ai/unity-ai-1-2/
+
+
+
+
+
 # sidebar navigation list sample
 sidebar-sample:
   - title: test1
