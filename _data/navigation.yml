@@ -86,7 +86,7 @@ docs:
 
 
 unity-ai:
-  - title : "1장 영리한 움직임"
+  - title : "1장 행동 : 영리한 움직임"
     children: 
       - title: "행위 템플릿 만들기"
         url: /unity/ai/unity-ai-1-1/
