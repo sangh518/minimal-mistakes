@@ -92,6 +92,8 @@ unity-ai:
         url: /unity/ai/unity-ai-1-1/
       - title: "추적과 회피"
         url: /unity/ai/unity-ai-1-2/
+      - title: "도착하기와 떠나기"
+        url: /unity/ai/unity-ai-1-3/
 
 
 
