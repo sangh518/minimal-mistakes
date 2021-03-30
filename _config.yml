@@ -100,26 +100,26 @@ analytics:
 
 # Site Author
 author:
-  name             : "와상"
-  avatar           : "/assets/images/profile/profile.jpg"
-  bio              : "Hello World!"
-  location         : "대한민국, 서울"
-  email            : "sangh518@naver.com"
+  name             : "이상화(와상)"
+  avatar           : "/assets/images/profile/profile2021.png"
+  bio              : "Unity Engineer"
+  location         : "Seoul, South Korea"
+  email            : "poe0952@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/profile.php?id=100008568070298"
   foursquare       :
-  github           : 
+  github           : "https://github.com/sangh518"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "sanghwa-lee" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
